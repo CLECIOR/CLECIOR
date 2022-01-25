@@ -1,6 +1,6 @@
-Olá, pode me chamar de Clecio Rodolfo;
-Meus interesses são em aprender, praticar e se possível ajudar (quando me aprofundar mais nas linguagens);
-Atualmente estou em fase de aprendizagem das linguagens JAVASCRYPT, PYTHON, C#, JAVA, MySQL;
+## Olá, pode me chamar de Clecio Rodolfo;
+Graduando em Gestão da Tecnologia da Informação;
+Atualmente estou em fase de aprendizagem das linguagens JAVA, JAVASCRYPT, MySQL, PYTHON, C#;
 
 <div align="center">
  <a href="https://github.com/clecior">

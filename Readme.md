@@ -1,4 +1,4 @@
-## Olá, pode me chamar de Clecio Rodolfo;
+## Olá, pode me chamar de Clecio;
 Graduando em Gestão da Tecnologia da Informação;
 Atualmente estou em fase de aprendizagem das linguagens JAVA, JAVASCRYPT, MySQL, PYTHON, C#;
 

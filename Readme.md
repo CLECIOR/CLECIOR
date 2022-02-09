@@ -1,6 +1,6 @@
 ## Olá, pode me chamar de Clecio;
-Graduando em Gestão da Tecnologia da Informação;
-Atualmente estou em fase de aprendizagem das linguagens JAVA, JAVASCRYPT, MySQL, PYTHON, C#;
+### Graduando em Gestão da Tecnologia da Informação;
+### Atualmente em fase de aprendizagem das linguagens JAVA, JAVASCRYPT, MySQL, PYTHON, C#;
 
 <div align="center">
  <a href="https://github.com/clecior">
